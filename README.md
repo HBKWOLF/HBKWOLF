@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-aouinti.ahmed-aouinti">
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:awintiahmed2017@gmail.com)](mailto:ahmed.berkote@gmail.com)
-[![instagram Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=0021656132172&text=Hello!👋)](https://api.whatsapp.com/send?phone=0021693094444&text=Hello!👋)
+[![instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/net.erbil/)](https://www.instagram.com/net.erbil/)
 
-### Hi I'm Ahmed 👋, Software Engineer 🧑‍💻
+### Hi I'm Ahmed 👋, computer engineer 🧑‍💻
 <br/>
-Hello, my name is Ahmed Aouinti and I am a computer engineer 🧑‍💻 and technik services 👮 at the Ministry of national defense of cypurs. My technology stack involves Angular, Javascript, Typescript, HTML/CSS/Bootstrap , Angular Material UI, PostgreSQL, MySQL, Spring Boot, JAVA and AWS and ,,,,,
+Hello, my name is Ahmed Aouinti and I am a computer engineer 🧑‍💻 and technik services at the Ministry of national defense of cypurs. My technology stack involves Angular, Javascript, Typescript, HTML/CSS/Bootstrap , Angular Material UI, PostgreSQL, MySQL, Spring Boot, JAVA and AWS and ,,,,,
 <br/>
 
 <h2 align="left" id="tech">Tech Stack</h2>
@@ -69,4 +69,3 @@ Tools, languages, and other things that I like to work with.
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ahmedaouinti?theme=dark&font=Cantarell&ext=heatmap)](https://leetcode.com/HBKWOLF)
 
  
-
